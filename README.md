@@ -19,12 +19,14 @@
 - [Back-end GitHub 바로가기](https://github.com/wecode-bootcamp-korea/justcode-4-2nd-bcode-back)
 
 <br/>
+
 ## Used
 - React
 - styled-component
 - react-hook-form
-- 
+
 <br/>
+
 ## DB Modeling
 
 <br/>
